@@ -1,0 +1,6 @@
+implement queue using array
+implement queue using linkedlist
+implement 2 stack using single array
+implement stack using 2 queues
+implement queue using two stacks
+

@@ -33,3 +33,5 @@ int main(){
     cout << "Index of 7 in odd array: " << oddIndex << endl;
 
 }
+
+
